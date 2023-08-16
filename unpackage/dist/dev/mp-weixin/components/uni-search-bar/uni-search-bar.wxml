@@ -1,0 +1,1 @@
+<view class="search-box"><uni-search-bar vue-id="38d7ccbc-1" radius="{{100}}" cancelButton="none" data-event-opts="{{[['^input',[['input']]]]}}" bind:input="__e" bind:__l="__l"></uni-search-bar></view>
